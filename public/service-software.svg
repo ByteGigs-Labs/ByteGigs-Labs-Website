@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="Technology product dashboard">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#061a3a"/><stop offset="1" stop-color="#0f3f88"/></linearGradient>
+    <linearGradient id="line" x1="0" x2="1"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#2563eb"/></linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#bg)"/>
+  <g opacity=".18" stroke="#bfdbfe"><path d="M0 72h640M0 144h640M0 216h640M0 288h640"/><path d="M80 0v360M160 0v360M240 0v360M320 0v360M400 0v360M480 0v360M560 0v360"/></g>
+  <rect x="70" y="62" width="500" height="236" rx="22" fill="#07162e" stroke="#7dd3fc" stroke-opacity=".35"/>
+  <rect x="100" y="96" width="130" height="154" rx="16" fill="#0b2a5b"/>
+  <rect x="262" y="96" width="250" height="30" rx="10" fill="#38bdf8" opacity=".72"/>
+  <rect x="262" y="152" width="200" height="22" rx="8" fill="#93c5fd" opacity=".4"/>
+  <rect x="262" y="202" width="154" height="22" rx="8" fill="#93c5fd" opacity=".3"/>
+  <path d="M124 211 164 171 193 191 228 145" fill="none" stroke="url(#line)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
